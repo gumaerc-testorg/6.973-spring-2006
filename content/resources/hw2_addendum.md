@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 504bb3da-f1cf-ff67-579f-c3c6a037a720
 resourcetype: Document
 title: hw2_addendum.pdf
 uid: 6c397818-0578-7c61-d5a1-da59f60dd15c

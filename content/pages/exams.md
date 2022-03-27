@@ -11,10 +11,10 @@ Exam 1 ([PDF]({{< baseurl >}}/resources/exam1))
 
 ### Supporting Files
 
-waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/waterfill.m))
+waterfill.m ([M]({{< baseurl >}}/resources/waterfill))
 
-channel\_model.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/exams/channel_model.m))
+channel\_model.m ([M]({{< baseurl >}}/resources/channel_model))
 
-exam1.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/exams/exam1.m))
+exam1.m ([M]({{< baseurl >}}/resources/exam1-1))
 
-LC\_RA.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/exams/LC_RA.m))
+LC\_RA.m ([M]({{< baseurl >}}/resources/lc_ra))

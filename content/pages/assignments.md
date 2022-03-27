@@ -30,13 +30,13 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/hw1))
 {{< tdopen >}}
 
 
-dfe\_equalizer.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/dfe_equalizer.m))
+dfe\_equalizer.m ([M]({{< baseurl >}}/resources/dfe_equalizer))
 
-eq.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/eq.m))
+eq.m ([M]({{< baseurl >}}/resources/eq))
 
-linear\_equalizer.m([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/linear_equalizer.m))
+linear\_equalizer.m([M]({{< baseurl >}}/resources/linear_equalizer))
 
-waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/waterfill.m))
+waterfill.m ([M]({{< baseurl >}}/resources/waterfill))
 
 
 {{< tdclose >}}
@@ -45,13 +45,13 @@ waterfill.m ([M](/courses/electrical-engineering-and-computer-science/6-973-comm
 
 ([PDF]({{< baseurl >}}/resources/hw1_soln))
 
-ps1\_problem1\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem1_soln.m))
+ps1\_problem1\_soln.m ([M]({{< baseurl >}}/resources/ps1_problem1_soln))
 
-ps1\_problem2\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem2_soln.m))
+ps1\_problem2\_soln.m ([M]({{< baseurl >}}/resources/ps1_problem2_soln))
 
-ps1\_problem3\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/ps1_problem3_soln.m))
+ps1\_problem3\_soln.m ([M]({{< baseurl >}}/resources/ps1_problem3_soln))
 
-waterfill\_soln.m ([M](/courses/electrical-engineering-and-computer-science/6-973-communication-system-design-spring-2006/assignments/waterfill_soln.m))
+waterfill\_soln.m ([M]({{< baseurl >}}/resources/waterfill_soln))
 
 
 {{< tdclose >}}
