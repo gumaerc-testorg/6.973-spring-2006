@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 1.
-file: /media/courses/6-973-communication-system-design-spring-2006/7ea0b852c02ec214bfa606d2fa013948_waterfill_soln.m
+file: /courses/6-973-communication-system-design-spring-2006/7ea0b852c02ec214bfa606d2fa013948_waterfill_soln.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: waterfill_soln.m
 uid: 7ea0b852-c02e-c214-bfa6-06d2fa013948
 ---
+Supporting MATLAB? file for Problem Set 1.
+

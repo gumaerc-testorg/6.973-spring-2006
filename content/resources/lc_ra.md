@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Exam 1.
-file: /media/courses/6-973-communication-system-design-spring-2006/6985bf29ad18dfcf25f86e7e35b7a904_LC_RA.m
+file: /courses/6-973-communication-system-design-spring-2006/6985bf29ad18dfcf25f86e7e35b7a904_LC_RA.m
 file_type: text/plain
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Other
 title: LC_RA.m
 uid: 6985bf29-ad18-dfcf-25f8-6e7e35b7a904
 ---
+Supporting MATLAB? file for Exam 1.
+

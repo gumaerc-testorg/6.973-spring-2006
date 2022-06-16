@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 1.
-file: /media/courses/6-973-communication-system-design-spring-2006/1212caa31c0fae297252ea3487afdbf2_eq.m
+file: /courses/6-973-communication-system-design-spring-2006/1212caa31c0fae297252ea3487afdbf2_eq.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: eq.m
 uid: 1212caa3-1c0f-ae29-7252-ea3487afdbf2
 ---
+Supporting MATLAB? file for Problem Set 1.
+
