@@ -7,6 +7,7 @@ file: /courses/6-973-communication-system-design-spring-2006/e9dccbc34c08e79585e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on coding, convolutional codes, channel coding, sequential encoder, the trellis, trellis for convolutional code, hamming distance, euclidean distance, and constraint length.
-

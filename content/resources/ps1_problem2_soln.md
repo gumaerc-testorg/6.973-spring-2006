@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/06e75ef4c343d3c43f3
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1_problem2_soln.m
 uid: 06e75ef4-c343-d3c4-3f3e-e610c81efe32
 ---
 Supporting MATLAB? file with the solution to Problem Set 1, Problem 2.
-

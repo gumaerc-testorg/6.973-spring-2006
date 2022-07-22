@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/7ea0b852c02ec214bfa
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: waterfill_soln.m
 uid: 7ea0b852-c02e-c214-bfa6-06d2fa013948
 ---
 Supporting MATLAB? file for Problem Set 1.
-

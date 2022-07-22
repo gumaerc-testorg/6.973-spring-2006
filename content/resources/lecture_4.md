@@ -12,6 +12,7 @@ file: /courses/6-973-communication-system-design-spring-2006/2a8950c0b8a77687bae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -26,4 +27,3 @@ video_metadata:
 ---
 This resource contains information on topics levin-campello, rate adaptive solution, rate adaptive algorithm, dynamic rate adaptation, channel partitioning, vector coding and transceiver architecture.
 Lecture notes on practical multitone architectures, 802.11a transceiver architecture, loading with discrete information units, rate adaptive solutions, dynamic rate adaptation, channel partitioning, vector coding, transceiver architecture, discrete multitone (DMT), and orthogonal frequency division multiplexing (OFDM).
-

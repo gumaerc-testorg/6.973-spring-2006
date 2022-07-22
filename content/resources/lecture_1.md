@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/95da07c89090a3f2d26
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes from the first lecture with an overview of the course.
-

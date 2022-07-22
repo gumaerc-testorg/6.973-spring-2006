@@ -5,6 +5,7 @@ file: /courses/6-973-communication-system-design-spring-2006/de345259ab563c20619
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Exam on discrete multitone system design.
-
