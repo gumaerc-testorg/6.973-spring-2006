@@ -4,6 +4,7 @@ description: Addendum to Problem Set 2, on the 802.11a behavioral model. Include
   data sets, channel models, and instructions on getting started and understanding
   the simulator output.
 file: /courses/6-973-communication-system-design-spring-2006/6c39781805787c61d5a1da59f60dd15c_hw2_addendum.pdf
+file_size: 97970
 file_type: application/pdf
 learning_resource_types:
 - Assignments

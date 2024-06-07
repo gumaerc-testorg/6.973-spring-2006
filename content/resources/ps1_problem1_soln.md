@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file with the solution to Problem Set 1, Problem 1.
 file: /courses/6-973-communication-system-design-spring-2006/63b56c0317f83d540a171f8474c46de2_ps1_problem1_soln.m
+file_size: 117
 file_type: text/plain
 learning_resource_types:
 - Assignments

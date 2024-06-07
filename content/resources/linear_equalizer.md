@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 1.
 file: /courses/6-973-communication-system-design-spring-2006/dd0e76b82fa93a523638ae9386982bc1_linear_equalizer.m
+file_size: 2196
 file_type: text/plain
 learning_resource_types:
 - Assignments

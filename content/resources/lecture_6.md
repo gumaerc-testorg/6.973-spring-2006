@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on micro-architectures, behavioral transformations, algebraic
   transformations, pipelining, and systematic folding.
 file: /courses/6-973-communication-system-design-spring-2006/b34c08522c4d384487429e49b79eec53_lecture_6.pdf
+file_size: 1229224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
