@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for Problem Set 1.
 file: /courses/6-973-communication-system-design-spring-2006/60bb0b4c689deb8405c52b24ebb8b580_dfe_equalizer.m
+file_size: 1867
 file_type: text/plain
 learning_resource_types:
 - Assignments
