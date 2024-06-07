@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on implementation of the Viterbi algorithm, convolutional
   codes, trellis diagrams, and calculating branch metrics.
 file: /courses/6-973-communication-system-design-spring-2006/653a5f7b68363dcfffcf5f50117febf6_lecture_14.pdf
+file_size: 363509
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
