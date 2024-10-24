@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on modulation, equalization, and multi-tone.
-file: /courses/6-973-communication-system-design-spring-2006/b83f49fc4f974ca72d4347550b70d776_hw1.pdf
+file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/b83f49fc4f974ca72d4347550b70d776_hw1.pdf
 file_size: 59710
 file_type: application/pdf
 learning_resource_types:
