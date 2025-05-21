@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the Viterbi algorithm, decision memory organization,
   survivor path decoding, register exchange, and trace-back.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/1a5ec5226345e4833f18449d4b006a16_lecture_16.pdf
+file: /courses/6-973-communication-system-design-spring-2006/1a5ec5226345e4833f18449d4b006a16_lecture_16.pdf
 file_size: 358730
 file_type: application/pdf
 learning_resource_types:

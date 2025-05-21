@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on the 802.11a behavioral model.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/7bfa9192acf6a98e3140f217ffe30cfc_hw2.pdf
+file: /courses/6-973-communication-system-design-spring-2006/7bfa9192acf6a98e3140f217ffe30cfc_hw2.pdf
 file_size: 27265
 file_type: application/pdf
 learning_resource_types:
