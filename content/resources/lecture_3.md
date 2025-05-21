@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on bandlimited communication systems, multi-tone systems,
   and equalization.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/adc29637f94056ac38da8030e9c2ffbd_lecture_3.pdf
+file: /courses/6-973-communication-system-design-spring-2006/adc29637f94056ac38da8030e9c2ffbd_lecture_3.pdf
 file_size: 957336
 file_type: application/pdf
 learning_resource_types:
