@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for Exam 1.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/0f57ac69c7eaa8b07e7e97001eede9fd_channel_model.m
+file: /courses/6-973-communication-system-design-spring-2006/0f57ac69c7eaa8b07e7e97001eede9fd_channel_model.m
 file_size: 810
 file_type: text/plain
 learning_resource_types:

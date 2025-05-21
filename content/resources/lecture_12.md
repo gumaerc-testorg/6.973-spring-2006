@@ -2,7 +2,7 @@
 content_type: resource
 description: lecture notes on trellis codes, a general coset (subset) encoder, coset
   partitioning, and BER improvement.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/cff787c8758ebe752fde2cd24c18b1d0_lecture_12.pdf
+file: /courses/6-973-communication-system-design-spring-2006/cff787c8758ebe752fde2cd24c18b1d0_lecture_12.pdf
 file_size: 706104
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Fast Fourier transforms and VLSI architectures.
-file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/1460f43d3993b7c956d4bb8ee03d1fb0_lecture_10.pdf
+file: /courses/6-973-communication-system-design-spring-2006/1460f43d3993b7c956d4bb8ee03d1fb0_lecture_10.pdf
 file_size: 3146546
 file_type: application/pdf
 learning_resource_types:
