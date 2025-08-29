@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the theory and algorithms of fast Fourier transform.
-file: /courses/6-973-communication-system-design-spring-2006/49a17bd0078f7723100ac1395a476595_lecture_8.pdf
+file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/49a17bd0078f7723100ac1395a476595_lecture_8.pdf
 file_size: 535757
 file_type: application/pdf
 learning_resource_types:

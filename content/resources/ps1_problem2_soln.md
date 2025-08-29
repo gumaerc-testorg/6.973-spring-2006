@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file with the solution to Problem Set 1, Problem 2.
-file: /courses/6-973-communication-system-design-spring-2006/06e75ef4c343d3c43f3ee610c81efe32_ps1_problem2_soln.m
+file: /ol-ocw-studio-app/courses/6-973-communication-system-design-spring-2006/06e75ef4c343d3c43f3ee610c81efe32_ps1_problem2_soln.m
 file_size: 5756
 file_type: text/plain
 learning_resource_types:
